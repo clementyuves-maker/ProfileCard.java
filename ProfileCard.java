@@ -20,7 +20,7 @@ public class ProfileCard {
         String programmingBackground = "Beginner in Java, familiar with Python";
 
         // Storing the primary objective for taking this course.
-        String courseGoal = "i want to build strong java application";
+        String courseGoal = "I want to build strong java application";
 
         // A little personal detail to make the profile unique!
         String funFact = "I enjoy solving coding challanges";
